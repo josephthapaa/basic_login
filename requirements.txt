@@ -9,7 +9,7 @@ geopy==1.22.0
 idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
-lxml==4.5.1
+lxml==4.6.2
 mccabe==0.6.1
 pygame==1.9.6
 pylint==2.5.2
@@ -30,7 +30,7 @@ geopy==1.22.0
 idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
-lxml==4.5.1
+lxml==4.6.2
 mccabe==0.6.1
 pygame==1.9.6
 pylint==2.5.2
